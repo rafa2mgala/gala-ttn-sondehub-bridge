@@ -1,0 +1,5 @@
+thethingsnetwork:
+  url: "tcp://eu1.cloud.thethings.network"
+  user: "galasat-project@ttn"
+  pass: "NNSXS.UWQNNSVCQWHPTJ67KSSSJLCJWZI57AAICM7FNAA.VHMO322PXWJTFW4LSLTN7S7V2IHC4BW6BAKANRSKMAFC5NPEVPCA"
+  topic: "v3/+/devices/+/up"
